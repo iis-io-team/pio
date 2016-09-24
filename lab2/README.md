@@ -2,9 +2,9 @@
 
 ## pliki
 
-*diagramy_klas.pdf - opracowanie teoretyczne tematu
-*diagramy_klas_zadania.pdf - zadania "na rozruch" do wspólnej pracy
-*labuml1.pdf i labuml2.pdf - zadania i jeszcze raz zadania
+* Item diagramy_klas.pdf - opracowanie teoretyczne tematu
+* Item diagramy_klas_zadania.pdf - zadania "na rozruch" do wspólnej pracy
+* Item labuml1.pdf i labuml2.pdf - zadania i jeszcze raz zadania
 
 ## zadania domowe
 
