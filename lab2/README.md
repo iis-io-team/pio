@@ -1,4 +1,4 @@
-#Laboratoria - diagramy klas UML
+# Laboratoria - diagramy klas UML
 
 ## pliki
 
